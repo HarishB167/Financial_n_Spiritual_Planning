@@ -356,16 +356,17 @@ As today's 10,000 household expenses can become 30,000 in future.
 * 10,000 will be monthly spending
 * Want to become brahmchari in 5 years
 * Divide earned money (40000) into 2 :
-> All 40000 into SIP
+> All 40000 into SIP ## But we have only used 30000 in example
 > 20000 into SIP of MIP
 Invested = 20000*12*5 = 12 lac
 Total = ~ 15 lac (adding interest also)
-> 20000 into pure risk  ## To understand
-Invested = 20000*12*5 = 12 lac
-* From 15 lac of MIP
+> 10000 into pure risk  ## To understand
+Invested = 10000*12*5 = 6 lac
+* Now after 5 years become brahamchari
+* After 5 years from 15 lac of MIP
 > 15000 will be return
 > 5000 giving monthly to parents (joint account)
-Close MIP after 5 years
+Close MIP after 5 years (10 years from starting job and saving)
 So, money to parents will stop.
 > 10000 will be given to pure risk for 5 years
 Will be converted to 30 lac after 10 years
