@@ -360,8 +360,8 @@ As today's 10,000 household expenses can become 30,000 in future.
 > 20000 into SIP of MIP
 Invested = 20000*12*5 = 12 lac
 Total = ~ 15 lac (adding interest also)
-> 10000 into pure risk  ## To understand
-Invested = 10000*12*5 = 12 lac
+> 20000 into pure risk  ## To understand
+Invested = 20000*12*5 = 12 lac
 * From 15 lac of MIP
 > 15000 will be return
 > 5000 giving monthly to parents (joint account)
